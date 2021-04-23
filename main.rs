@@ -1,4 +1,5 @@
 // Rust template
+// ~dwulf
 #[derive(Debug)]
 struct Rectangle {
     width: u32,
