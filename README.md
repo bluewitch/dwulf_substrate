@@ -52,3 +52,9 @@ Transaction Payment
 Treasury
 Utility
 Vesting
+
+Coins:
+DOT
+ADA
+ETH
+BTC
