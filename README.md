@@ -23,12 +23,12 @@ Support Library
 Runtime
 Benchmarking
 Prebuilt Pallets
-Assets
+~Assets
 ~Atomic Swap
 Aura
 Authority Discovery
 Authorship
-BABE
+~BABE
 ~Balances
 Benchmark
 Collective
@@ -36,9 +36,9 @@ Contracts
 Democracy
 Elections Phragmén
 Elections
-Example Offchain Worker
+~Example Offchain Worker
 Example
-GRANDPA
+~GRANDPA
 Identity
 I'm Online
 Indices
@@ -53,13 +53,13 @@ Scheduler
 Scored Pool
 Session
 Society
-Staking
-Sudo
+~Staking
+~Sudo
 Timestamp
 Transaction Payment
-Treasury
+~Treasury
 Utility
-Vesting
+~Vesting
 
 Coins:
 DOT
