@@ -62,9 +62,10 @@ Utility
 ~Vesting
 
 Coins:
-DOT
-ADA
-ETH
-BTC
+DOT (Polkadot)
+ADA (Cardano)
+ETH (Etherum)
+BTC (Bitcoin)
+XMR (Monero)
 
 
