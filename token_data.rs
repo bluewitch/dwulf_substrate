@@ -1,4 +1,4 @@
-
+// Coin info for dwallet
 struct coins {
     coin_name: String,
     coin_index: String,
